@@ -1,1 +1,8 @@
 Some message here
+
+more stuff had been added
+we are cloning
+remote to local
+making the changes
+pushing it back to
+remote repository
